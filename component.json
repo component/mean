@@ -1,0 +1,15 @@
+{
+  "name": "mean",
+  "repo": "component/mean",
+  "description": "Array mean value utility",
+  "version": "1.0.0",
+  "keywords": ["array", "mean", "utility", "stats", "statistics"],
+  "dependencies": {
+    "component/to-function": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
